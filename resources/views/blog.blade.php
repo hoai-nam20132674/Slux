@@ -404,12 +404,6 @@
 								                    </div> 
 								                </div>
 											</div>
-											<div class="blog-new-item">
-												
-											</div>
-											<div class="blog-new-item">
-												
-											</div>
 										</div>
 									
 								</div>
@@ -417,6 +411,7 @@
 						<div class="clear"></div>
 						</div>
 					</div>
+					@include('frontEndUser.page-content.information')
 				</div>
 				<footer id="footer">
 					<div class="container">

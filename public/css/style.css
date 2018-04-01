@@ -2375,7 +2375,7 @@ figure {
  /* End breadcrumb css*/
 
 .page-content {
-    margin: 40px auto;
+    margin: 0px auto;
 }
 
 @media screen and (max-width: 768px) {
