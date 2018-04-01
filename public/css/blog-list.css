@@ -176,6 +176,11 @@
 .blog-list h4 {
 	margin:0px 0px 5px 0px;
 }
+@media screen and (max-width: 768px){
+	.blog-list h4 {
+		margin-top: 15px;
+	}
+}
 .blog-list p {
 	margin-bottom: 0px;
 	font-size: 13px;
@@ -186,7 +191,7 @@
 .blog-new .blog-new-item h4 {
 	margin:5px auto;
 }
-.blog-item:first-child {
+.blog-list .blog-item:first-child {
 	margin-top: 30px;
 }
 .blog-new .blog-new-item .row-content {

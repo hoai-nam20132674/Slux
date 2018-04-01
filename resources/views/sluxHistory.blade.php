@@ -90,13 +90,14 @@
 									<!-- 	<li>
 											<a class="active" href="index.html">Home</a>
 										</li> -->
-										<li><a href="work.html">Trang chủ</a></li>
-										<li><a href="blog.html">dịch vụ</a></li>
+										<li><a href="/">Trang chủ</a></li>
+										<li><a href="#">dịch vụ</a></li>
+										<li><a href="/cau-chuyen-slux.html">Câu chuyện</a></li>
 										<li>
-											<a href="services.html" class="fh5co-sub-ddown">Linh phụ kiện</a>
+											<a href="#" class="fh5co-sub-ddown">Linh phụ kiện</a>
 											<ul class="fh5co-sub-menu">
-											 	<li><a href="left-sidebar.html">Linh kiện Nokia 8800</a></li>
-											 	<li><a href="right-sidebar.html">Linh kiện Vertu</a></li>
+											 	<li><a href="#">Linh kiện Nokia 8800</a></li>
+											 	<li><a href="#">Linh kiện Vertu</a></li>
 												<li>
 													<a href="#" class="fh5co-sub-ddown">Phụ kiện Nokia 8800</a>
 													<!-- <ul class="fh5co-sub-menu">
@@ -111,8 +112,8 @@
 												<li><a href="#">Phụ kiện Vertu</a></li>
 											</ul>
 										</li>
-										<li><a href="about.html">Tin tức</a></li>
-										<li><a href="contact.html">Liên hệ</a></li>
+										<li><a href="/tin-tuc.html">Tin tức</a></li>
+										<li><a href="#">Liên hệ</a></li>
 									</ul>
 								</nav>
 							</div>

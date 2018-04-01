@@ -2377,6 +2377,7 @@ figure {
 .page-content {
     margin: 40px auto;
 }
+
 @media screen and (max-width: 768px) {
     .information ul li {
     
