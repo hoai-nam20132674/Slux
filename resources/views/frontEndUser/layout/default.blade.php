@@ -43,9 +43,11 @@
 
 	<link rel="stylesheet" href="{{asset('css/styleProcedure.css')}}">
 	<link rel="stylesheet" href="{{asset('css/blog-list.css')}}">
+	<link rel="stylesheet" href="{{asset('css/product_slide.css')}}">
 	<link href='https://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
 	<!-- <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script> -->
 	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
