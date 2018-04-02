@@ -16,7 +16,7 @@
                                     <div class="col-md-4 text-center ">
 										<div class="feedback ">
 											<div class="feedbackImage">
-												<img src="https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/12814467_805626236249661_2051314709770613093_n.jpg?_nc_cat=0&oh=34c0ccfbb186498dccf9f0240c55a3c0&oe=5B6B3701">
+												<img src="https://i.ytimg.com/vi/n0Tj93jk5ug/maxresdefault.jpg">
 											</div>
 											<div class="feedbackContent box-shadows">
 												<h3>Slux+1</h3>
@@ -30,7 +30,7 @@
                                     <div class="col-md-4 text-center">
 										<div class="feedback ">
 											<div class="feedbackImage">
-												<img src="https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/12814467_805626236249661_2051314709770613093_n.jpg?_nc_cat=0&oh=34c0ccfbb186498dccf9f0240c55a3c0&oe=5B6B3701">
+												<img src="https://i.ytimg.com/vi/vF-eVnqq-bw/maxresdefault.jpg">
 											</div>
 											<div class="feedbackContent box-shadows">
 												<h3>Slux+1</h3>
@@ -44,7 +44,7 @@
                                     <div class="col-md-4 text-center">
 										<div class="feedback ">
 											<div class="feedbackImage">
-												<img src="https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/12814467_805626236249661_2051314709770613093_n.jpg?_nc_cat=0&oh=34c0ccfbb186498dccf9f0240c55a3c0&oe=5B6B3701">
+												<img src="https://i.ytimg.com/vi/eBaKkHttZ_Y/maxresdefault.jpg">
 											</div>
 											<div class="feedbackContent box-shadows">
 												<h3>Slux+1</h3>

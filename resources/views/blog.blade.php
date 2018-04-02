@@ -58,7 +58,9 @@
 
 	<link rel="stylesheet" href="{{asset('css/styleProcedure.css')}}">
 	<link rel="stylesheet" href="{{asset('css/blog-list.css')}}">
+	<link rel="stylesheet" href="{{asset('css/recommend-product.css')}}">
 	<!-- <link rel="stylesheet" href="{{asset('css/product_slide.css')}}"> -->
+
 	<link href='https://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -84,7 +86,7 @@
 						<div class="container">
 							<div class="nav-header">
 								<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-								<h1 id="fh5co-logo"><a href="index.html">Slux +</a></h1>
+								<h1 id="fh5co-logo"><a href="/">Slux +</a></h1>
 								<!-- START #fh5co-menu-wrap -->
 								<nav id="fh5co-menu-wrap" role="navigation">
 									<ul class="sf-menu" id="fh5co-primary-menu">
@@ -95,10 +97,10 @@
 										<li><a href="#">dịch vụ</a></li>
 										<li><a href="/cau-chuyen-slux.html">Câu chuyện</a></li>
 										<li>
-											<a href="services.html" class="fh5co-sub-ddown">Linh phụ kiện</a>
+											<a href="linh-phu-kien.html" class="fh5co-sub-ddown">Linh phụ kiện</a>
 											<ul class="fh5co-sub-menu">
-											 	<li><a href="left-sidebar.html">Linh kiện Nokia 8800</a></li>
-											 	<li><a href="right-sidebar.html">Linh kiện Vertu</a></li>
+											 	<li><a href="#">Linh kiện Nokia 8800</a></li>
+											 	<li><a href="#">Linh kiện Vertu</a></li>
 												<li>
 													<a href="#" class="fh5co-sub-ddown">Phụ kiện Nokia 8800</a>
 													<!-- <ul class="fh5co-sub-menu">
@@ -114,7 +116,7 @@
 											</ul>
 										</li>
 										<li><a href="tin-tuc.html">Tin tức</a></li>
-										<li><a href="#">Liên hệ</a></li>
+										<li><a href="lien-he.html">Liên hệ</a></li>
 									</ul>
 								</nav>
 							</div>
@@ -183,17 +185,12 @@
 										
 									        <div class="btn-group btn-breadcrumb breadcrumb-default">
 									            <a href="#" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-									            <a href="#" class="btn btn-default">Snippets</a>
-									            <a href="#" class="btn btn-default">Breadcrumbs text</a>
-									            <a href="#" class="btn btn-default">Section</a>
-									            <a href="#" class="btn btn-default">Category</a>
-									            
+									            <a href="#" class="btn btn-default"> TIN TỨC</a>
 									            
 									        </div>
 										
 									</div>
 									<div class="blog-list">
-										
 											<div class="blog-item">
 												<div class="row"> 
 								                    <div class="col-xs-12 col-sm-3 col-md-3">
@@ -340,6 +337,112 @@
 								            </div>
 							                <hr>
 									</div>
+									<div class="recommend-product">
+										<div class="row">
+								            <div class="col-md-12">
+								                <h3>
+								                    Sản phẩm quan tâm</h3>
+								            
+								                <!-- Controls -->
+								                
+								            </div>
+								        </div>
+								        <div class="row">
+					                        <div class="col-sm-4 product-item">
+					                            <div class="col-item">
+					                                <div class="photo">
+					                                    <img src="http://www.timeswissshop.com/hublot/hbulot-replica-watch-big-bang-gold-ceramic-bezel-2009-7750.jpg" alt="a" />
+					                                </div>
+					                                <div class="info">
+					                                    <div class="row">
+					                                        <div class="price col-md-6">
+					                                            <h5>
+					                                                Sample Product</h5>
+					                                            <h5 class="price-text-color">
+					                                                $199.99</h5>
+					                                        </div>
+					                                        <div class="rating hidden-sm col-md-6">
+					                                            <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+					                                            </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+					                                            </i><i class="fa fa-star"></i>
+					                                        </div>
+					                                    </div>
+					                                    <div class="separator clear-left">
+					                                        <p class="btn-add">
+					                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+					                                        <p class="btn-details">
+					                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
+					                                    </div>
+					                                    <div class="clearfix">
+					                                    </div>
+					                                </div>
+					                            </div>
+					                        </div>
+					                        <div class="col-sm-4 product-item">
+					                            <div class="col-item">
+					                                <div class="photo">
+					                                    <img src="http://www.timeswissshop.com/hublot/hublot-big-bang-uefa-limited-gold-7750-replica-watch.jpg" alt="a" />
+					                                </div>
+					                                <div class="info">
+					                                    <div class="row">
+					                                        <div class="price col-md-6">
+					                                            <h5>
+					                                                Product Example</h5>
+					                                            <h5 class="price-text-color">
+					                                                $249.99</h5>
+					                                        </div>
+					                                        <div class="rating hidden-sm col-md-6">
+					                                        </div>
+					                                    </div>
+					                                    <div class="separator clear-left">
+					                                        <p class="btn-add">
+					                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+					                                        <p class="btn-details">
+					                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
+					                                    </div>
+					                                    <div class="clearfix">
+					                                    </div>
+					                                </div>
+					                            </div>
+					                        </div>
+					                        <div class="col-sm-4 product-item">
+					                            <div class="col-item">
+					                                <div class="photo">
+					                                    <img src="http://www.timeswissshop.com/hublot/hbulot-replica-watch-big-bang-gold-ceramic-bezel-2009-7750.jpg" class="img-responsive" alt="a" />
+					                                </div>
+					                                <div class="info">
+					                                    <div class="row">
+					                                        <div class="price col-md-6">
+					                                            <h5>
+					                                                Next Sample Product</h5>
+					                                            <h5 class="price-text-color">
+					                                                $149.99</h5>
+					                                        </div>
+					                                        <div class="rating hidden-sm col-md-6">
+					                                            <i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+					                                            </i><i class="price-text-color fa fa-star"></i><i class="price-text-color fa fa-star">
+					                                            </i><i class="fa fa-star"></i>
+					                                        </div>
+					                                    </div>
+					                                    <div class="separator clear-left">
+					                                        <p class="btn-add">
+					                                            <i class="fa fa-shopping-cart"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">Add to cart</a></p>
+					                                        <p class="btn-details">
+					                                            <i class="fa fa-list"></i><a href="http://www.jquery2dotnet.com" class="hidden-sm">More details</a></p>
+					                                    </div>
+					                                    <div class="clearfix">
+					                                    </div>
+					                                </div>
+					                            </div>
+					                        </div>
+					                    </div>
+					                    <br>
+					                    <div class="row">
+					                    	<div class="col-md-12 text-center">
+					                    		<button class="btn-danger" style="margin-right: 0px; font-weight: 700;" href="">XEM THÊM SẢN PHẨM</button>
+					                    	</div>
+					                    </div>
+									</div>
 								</div>
 							</div>
 							<div class="sidebar">
@@ -378,7 +481,63 @@
 										</div>
 										<hr>
 										<div class="blog-new">
-											<div class="blog-new-item">
+											<div class="blog-new-item box-shadows">
+												<div class="row"> 
+								                    <div class="col-xs-12 col-sm-12 col-md-12">
+								                        <a href="#">
+								                            <img src="http://i.huffpost.com/gen/2038950/thumbs/s-BANGKOK-NOODLES-large.jpg" class="img-responsive img-box img-thumbnail"> 
+								                        </a>
+								                    </div>
+								                    <br>
+								                    <br>
+								                    <div class="col-xs-12 col-sm-12 col-md-12">
+								                    	<h4><a href="#">These Are The Best Noodle Spots In Bangkok</a></h4>
+								                        <div class="list-group">
+								                            <div class="list-group-item">
+								                                <div class="row-content">
+								                                    <small>
+								                                        <i class="glyphicon glyphicon-time"></i> 1 month ago via <span class="twitter"> <i class="fa fa-twitter"></i> <a target="_blank" href="https://twitter.com/sintret" alt="sintret" title="sintret">@sintret</a></span>
+								                                        <br>
+								                                    </small>
+								                                </div>
+								                            </div>
+								                        </div>
+								                        <div class="read-more"><button class="btn-primary">Xem thêm</button></div>
+								                        <div class="clear"></div>
+								                        
+								                    </div> 
+								                </div>
+											</div>
+											<br>
+											<div class="blog-new-item box-shadows">
+												<div class="row"> 
+								                    <div class="col-xs-12 col-sm-12 col-md-12">
+								                        <a href="#">
+								                            <img src="http://i.huffpost.com/gen/2038950/thumbs/s-BANGKOK-NOODLES-large.jpg" class="img-responsive img-box img-thumbnail"> 
+								                        </a>
+								                    </div>
+								                    <br>
+								                    <br>
+								                    <div class="col-xs-12 col-sm-12 col-md-12">
+								                    	<h4><a href="#">These Are The Best Noodle Spots In Bangkok</a></h4>
+								                        <div class="list-group">
+								                            <div class="list-group-item">
+								                                <div class="row-content">
+								                                    <small>
+								                                        <i class="glyphicon glyphicon-time"></i> 1 month ago via <span class="twitter"> <i class="fa fa-twitter"></i> <a target="_blank" href="https://twitter.com/sintret" alt="sintret" title="sintret">@sintret</a></span>
+								                                        <br>
+								                                    </small>
+								                                </div>
+								                            </div>
+								                        </div>
+								                        <div class="read-more"><button class="btn-primary">Xem thêm</button></div>
+								                        <div class="clear"></div>
+								                        
+								                    </div> 
+								                </div>
+											</div>
+											<br>
+											<div class="blog-new-item box-shadows">
 												<div class="row"> 
 								                    <div class="col-xs-12 col-sm-12 col-md-12">
 								                        <a href="#">
@@ -412,6 +571,7 @@
 						<div class="clear"></div>
 						</div>
 					</div>
+					<br>
 					@include('frontEndUser.page-content.information')
 				</div>
 				<footer id="footer">

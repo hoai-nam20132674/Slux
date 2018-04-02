@@ -43,7 +43,7 @@
 
 	<link rel="stylesheet" href="{{asset('css/styleProcedure.css')}}">
 	<link rel="stylesheet" href="{{asset('css/blog-list.css')}}">
-	<link rel="stylesheet" href="{{asset('css/product_slide.css')}}">
+	<link rel="stylesheet" href="{{asset('css/recommend-product.css')}}">
 	<link href='https://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -74,7 +74,8 @@
 					@yield('slide-header')
 				</div>
 				
-				<br>
+				
+				<div class="page-content">
 					@yield('services')
 				
 					@yield('counter')
@@ -84,15 +85,21 @@
 					@yield('why-choose')
 					
 					@yield('blog')
-				
-				<br>
-				<br>
-		
+
 					@yield('feedback')
+
+					@yield('blog-content')
+					@yield('blog-list')
+					@yield('product-list')
+					@yield('contact')
 		
 					@include('frontEndUser.page-content.information')
-		
+					
+				</div>
+
+				<div class="footer">
 					@include('frontEndUser.layout.footer')
+				</div>
 			</div>
 			<!-- END fh5co-page -->
 

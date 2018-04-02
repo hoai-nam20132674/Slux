@@ -83,7 +83,7 @@
 						<div class="container">
 							<div class="nav-header">
 								<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-								<h1 id="fh5co-logo"><a href="index.html">Slux +</a></h1>
+								<h1 id="fh5co-logo"><a href="/">Slux +</a></h1>
 								<!-- START #fh5co-menu-wrap -->
 								<nav id="fh5co-menu-wrap" role="navigation">
 									<ul class="sf-menu" id="fh5co-primary-menu">
@@ -94,7 +94,7 @@
 										<li><a href="#">dịch vụ</a></li>
 										<li><a href="/cau-chuyen-slux.html">Câu chuyện</a></li>
 										<li>
-											<a href="#" class="fh5co-sub-ddown">Linh phụ kiện</a>
+											<a href="linh-phu-kien.html" class="fh5co-sub-ddown">Linh phụ kiện</a>
 											<ul class="fh5co-sub-menu">
 											 	<li><a href="#">Linh kiện Nokia 8800</a></li>
 											 	<li><a href="#">Linh kiện Vertu</a></li>
@@ -113,7 +113,7 @@
 											</ul>
 										</li>
 										<li><a href="/tin-tuc.html">Tin tức</a></li>
-										<li><a href="#">Liên hệ</a></li>
+										<li><a href="/lien-he.html">Liên hệ</a></li>
 									</ul>
 								</nav>
 							</div>
@@ -171,65 +171,65 @@
 					  	</ul>
 				  	</div>
 				</aside>
-				<div class="container">
-					<div class="row">
-						<div class="breadcrumb-slux">
-					        <div class="btn-group btn-breadcrumb breadcrumb-default">
-					            <a href="#" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-					            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Snippets</a>
-					            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Breadcrumbs text</a>
-					            <a href="#" class="btn btn-default visible-lg-block visible-md-block">Section</a>
-					             <a href="#" class="btn btn-default visible-lg-block visible-md-block">Category</a>
-					            <!-- <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div> -->
-					            
-					        </div>
-						</div>
-					</div>
-				</div>
-
-				<section id="overview" class="parallax-section">
+				<div class="page-content">
 					<div class="container">
 						<div class="row">
-							<div class="overviewItem ">
-								<div class="wow fadeInUp col-md-6 col-sm-6 overviewText text-center clearMP" data-wow-delay="0.6s">
-									<h3>New Event is a fully responsive one-page template for events, conferences or workshops.</h3>
-									<p>This is a Bootstrap v3.3.6 layout that is responsive and mobile friendly. You may download and modify this template for your website. Please tell your friends about templatemo.</p>
-									<p>Quisque facilisis scelerisque venenatis. Nam vulputate ultricies luctus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
-								</div>
-										
-								<div class="wow fadeInUp col-md-6 col-sm-6 overviewImage clearMP" data-wow-delay="0.9s">
-									<img src="https://cdn.shopify.com/s/files/1/0985/2790/files/DSC_75132.jpg?v=1516589271" class="img-responsive" alt="Overview">
-								</div>
-								<div class="clear"></div>
+							<div class="breadcrumb-slux">
+						        <div class="btn-group btn-breadcrumb breadcrumb-default">
+						            <a href="#" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
+						            <a href="#" class="btn btn-default visible-lg-block visible-md-block">CÂU CHUYỆN SLUX</a>
+						            
+						            <!-- <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div> -->
+						            
+						        </div>
 							</div>
-							<div class="overviewItem">
-								<div class="wow fadeInUp col-md-6 col-sm-6 overviewImage clearMP" data-wow-delay="0.9s">
-									<img src="https://cdn.shopify.com/s/files/1/0985/2790/files/Untitled-2_2.jpg?v=1516762144" class="img-responsive" alt="Overview">
-								</div>
-								<div class="wow fadeInUp col-md-6 col-sm-6 overviewText text-center clearMP" data-wow-delay="0.6s">
-									<h3>New Event is a fully responsive one-page template for events, conferences or workshops.</h3>
-									<p>This is a Bootstrap v3.3.6 layout that is responsive and mobile friendly. You may download and modify this template for your website. Please tell your friends about templatemo.</p>
-									<p>Quisque facilisis scelerisque venenatis. Nam vulputate ultricies luctus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
-								</div>
-								<div class="clear"></div>	
-								
-							</div>
-							<div class="overviewItem ">
-								<div class="wow fadeInUp col-md-6 col-sm-6 overviewText text-center clearMP" data-wow-delay="0.6s">
-									<h3>New Event is a fully responsive one-page template for events, conferences or workshops.</h3>
-									<p>This is a Bootstrap v3.3.6 layout that is responsive and mobile friendly. You may download and modify this template for your website. Please tell your friends about templatemo.</p>
-									<p>Quisque facilisis scelerisque venenatis. Nam vulputate ultricies luctus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
-								</div>
-										
-								<div class="wow fadeInUp col-md-6 col-sm-6 overviewImage clearMP " data-wow-delay="0.9s">
-									<img src="https://cdn.shopify.com/s/files/1/0985/2790/files/BODY_12.jpg?v=1516169083" class="img-responsive" alt="Overview">
-								</div>
-								<div class="clear"></div>
-							</div>
-
 						</div>
 					</div>
-				</section>
+
+					<section id="overview" class="parallax-section">
+						<div class="container">
+							<div class="row">
+								<div class="overviewItem ">
+									<div class="wow fadeInUp col-md-6 col-sm-6 overviewText text-center clearMP" data-wow-delay="0.6s">
+										<h3>New Event is a fully responsive one-page template for events, conferences or workshops.</h3>
+										<p>This is a Bootstrap v3.3.6 layout that is responsive and mobile friendly. You may download and modify this template for your website. Please tell your friends about templatemo.</p>
+										<p>Quisque facilisis scelerisque venenatis. Nam vulputate ultricies luctus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+									</div>
+											
+									<div class="wow fadeInUp col-md-6 col-sm-6 overviewImage clearMP" data-wow-delay="0.9s">
+										<img src="https://cdn.shopify.com/s/files/1/0985/2790/files/DSC_75132.jpg?v=1516589271" class="img-responsive" alt="Overview">
+									</div>
+									<div class="clear"></div>
+								</div>
+								<div class="overviewItem">
+									<div class="wow fadeInUp col-md-6 col-sm-6 overviewImage clearMP" data-wow-delay="0.9s">
+										<img src="https://cdn.shopify.com/s/files/1/0985/2790/files/Untitled-2_2.jpg?v=1516762144" class="img-responsive" alt="Overview">
+									</div>
+									<div class="wow fadeInUp col-md-6 col-sm-6 overviewText text-center clearMP" data-wow-delay="0.6s">
+										<h3>New Event is a fully responsive one-page template for events, conferences or workshops.</h3>
+										<p>This is a Bootstrap v3.3.6 layout that is responsive and mobile friendly. You may download and modify this template for your website. Please tell your friends about templatemo.</p>
+										<p>Quisque facilisis scelerisque venenatis. Nam vulputate ultricies luctus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+									</div>
+									<div class="clear"></div>	
+									
+								</div>
+								<div class="overviewItem ">
+									<div class="wow fadeInUp col-md-6 col-sm-6 overviewText text-center clearMP" data-wow-delay="0.6s">
+										<h3>New Event is a fully responsive one-page template for events, conferences or workshops.</h3>
+										<p>This is a Bootstrap v3.3.6 layout that is responsive and mobile friendly. You may download and modify this template for your website. Please tell your friends about templatemo.</p>
+										<p>Quisque facilisis scelerisque venenatis. Nam vulputate ultricies luctus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+									</div>
+											
+									<div class="wow fadeInUp col-md-6 col-sm-6 overviewImage clearMP " data-wow-delay="0.9s">
+										<img src="https://cdn.shopify.com/s/files/1/0985/2790/files/BODY_12.jpg?v=1516169083" class="img-responsive" alt="Overview">
+									</div>
+									<div class="clear"></div>
+								</div>
+
+							</div>
+						</div>
+					</section>
+				</div>
 				<footer id="footer">
 					<div class="container">
 						<div class="row">

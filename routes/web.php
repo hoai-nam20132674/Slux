@@ -20,4 +20,9 @@ Route::get('/cau-chuyen-slux.html', function () {
 Route::get('/tin-tuc.html', function(){
 	return view('blog');
 });
-
+Route::get('/lien-he.html', function(){
+	return view('contact');
+});
+Route::get('/linh-phu-kien.html', function(){
+	return view('frontEndUser.list-product');
+});
