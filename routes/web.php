@@ -26,3 +26,6 @@ Route::get('/lien-he.html', function(){
 Route::get('/linh-phu-kien.html', function(){
 	return view('frontEndUser.list-product');
 });
+Route::get('/view-product-item.html', function(){
+	return view('frontEndUser.view-product-item');
+});

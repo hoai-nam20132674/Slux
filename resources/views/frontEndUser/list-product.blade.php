@@ -10,7 +10,7 @@
 					<div class="breadcrumb-slux">
 				        <div class="btn-group btn-breadcrumb breadcrumb-default">
 				            <a href="#" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-				            <a href="#" class="btn btn-default">LINH PHỤ KIỆN</a>
+				            <a href="#" class="btn btn-default border-bottom">LINH PHỤ KIỆN</a>
 				            
 				        </div>
 					</div>
@@ -295,7 +295,6 @@
 					  	<a href="#">3</a>
 					  	<a href="#">4</a>
 					  	<a href="#">5</a>
-					  	<a href="#">6</a>
 					  	<a href="#">&raquo;</a>
 					</div>
 				</div>

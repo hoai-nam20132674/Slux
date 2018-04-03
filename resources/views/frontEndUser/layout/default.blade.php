@@ -44,6 +44,7 @@
 	<link rel="stylesheet" href="{{asset('css/styleProcedure.css')}}">
 	<link rel="stylesheet" href="{{asset('css/blog-list.css')}}">
 	<link rel="stylesheet" href="{{asset('css/recommend-product.css')}}">
+	<link rel="stylesheet" href="{{asset('css/view-product-item.css')}}">
 	<link href='https://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -60,7 +61,10 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-
+	<!-- css view-product-item -->
+	<link rel="canonical" href="https://codepen.io/AttilaBre/pen/RKjaeB?depth=everything&order=popularity&page=15&q=product&show_forks=false" />
+	<script src="https://use.fontawesome.com/f12e4a6b3c.js"></script>
+	<!-- css view-product-item -->
 	</head>
 	<body>
 		<div id="fh5co-wrapper">
@@ -92,6 +96,7 @@
 					@yield('blog-list')
 					@yield('product-list')
 					@yield('contact')
+					@yield('view-product-item')
 		
 					@include('frontEndUser.page-content.information')
 					
@@ -109,6 +114,44 @@
 		<!-- jQuery -->
 
 		<!-- SwiperEffect Js-->
+		<script >var $numberOfBullets = $(".nav-item")
+			var $numberOfSlides = $(".slide");
+
+			var counter = 0;
+
+			function checkCounter() {
+			  if(counter == 0) {
+			    $("#more-up").css({"display":"none"});
+			  }else if(counter == 5) {
+			    $("#more-down").css({"display":"none"});
+			  }else {
+			    $("#more-up").css({"display":"block"});
+			    $("#more-down").css({"display":"block"});
+			  }
+			}
+
+			$(document).ready(function () {
+
+			  /// MOVING BIG SLIDES
+			  $(".nav-item").click(function () {
+			    var indexOfBullet = $(this).index();
+			    $("#slides").css({"left": "-500" * indexOfBullet, "transition": "1s" });
+			  });
+
+			  /// MOVING SMALL SLIDES
+			  $("#more-down").click(function () {
+			    $("#nav-images").css({"top": "-100" * ++counter, "transition": "1s"});
+			    checkCounter();
+			  });
+			  $("#more-up").click(function () {
+			    $("#nav-images").css({"top": "-100" * --counter, "transition": "1s"});
+			    checkCounter();
+			  });
+
+			});
+
+			//# sourceURL=pen.js
+			</script>
 		<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js'></script>
 		<script type="text/javascript" src="{{asset('js/carousel.js')}}"></script>
 		

@@ -2401,8 +2401,11 @@ figure {
   }
 }
 .breadcrumb-slux .breadcrumb-default{
-   border-bottom: solid 1px #adadad; 
+   /*border-bottom: solid 1px #e8e8e8;*/
  }
+.border-bottom {
+    border-bottom: solid 1px #e8e8e8;
+}
 .breadcrumb-slux .btn-breadcrumb .btn:hover {
   background-color: red;
 }

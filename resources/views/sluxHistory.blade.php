@@ -177,7 +177,7 @@
 							<div class="breadcrumb-slux">
 						        <div class="btn-group btn-breadcrumb breadcrumb-default">
 						            <a href="#" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
-						            <a href="#" class="btn btn-default visible-lg-block visible-md-block">CÂU CHUYỆN SLUX</a>
+						            <a href="#" class="btn btn-default">CÂU CHUYỆN SLUX</a>
 						            
 						            <!-- <div class="btn btn-default visible-xs-block hidden-xs visible-sm-block ">...</div> -->
 						            
