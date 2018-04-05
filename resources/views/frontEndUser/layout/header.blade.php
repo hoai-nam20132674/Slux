@@ -10,7 +10,7 @@
 					<li><a href="#">Dịch vụ</a></li>
 					<li><a href="cau-chuyen-slux.html">Câu chuyện</a></li>
 					<li>
-						<a href="linh-phu-kien.html" class="fh5co-sub-ddown">Linh phụ kiện</a>
+						<a href="/linh-phu-kien.html" class="fh5co-sub-ddown">Linh phụ kiện</a>
 						<ul class="fh5co-sub-menu">
 						 	<li><a href="left-sidebar.html">Linh kiện Nokia 8800</a></li>
 						 	<li><a href="right-sidebar.html">Linh kiện Vertu</a></li>

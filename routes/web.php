@@ -12,16 +12,16 @@
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('frontEndUser.index');
 });
 Route::get('/cau-chuyen-slux.html', function () {
-    return view('sluxHistory');
+    return view('frontEndUser.slux-talk');
 });
 Route::get('/tin-tuc.html', function(){
-	return view('blog');
+	return view('frontEndUser.blog');
 });
 Route::get('/lien-he.html', function(){
-	return view('contact');
+	return view('frontEndUser.contact');
 });
 Route::get('/linh-phu-kien.html', function(){
 	return view('frontEndUser.list-product');

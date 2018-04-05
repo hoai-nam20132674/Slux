@@ -61,10 +61,12 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
+
 	<!-- css view-product-item -->
 	<link rel="canonical" href="https://codepen.io/AttilaBre/pen/RKjaeB?depth=everything&order=popularity&page=15&q=product&show_forks=false" />
 	<script src="https://use.fontawesome.com/f12e4a6b3c.js"></script>
 	<!-- css view-product-item -->
+	
 	</head>
 	<body>
 		<div id="fh5co-wrapper">
@@ -97,6 +99,7 @@
 					@yield('product-list')
 					@yield('contact')
 					@yield('view-product-item')
+					@yield('slux-talk')
 		
 					@include('frontEndUser.page-content.information')
 					
